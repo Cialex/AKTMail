@@ -1,0 +1,27 @@
+{
+    "name": "aktmail/aktmail",
+    "description": "Web tabanlı e-posta istemcisi - Thunderbird benzeri PHP uygulaması",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AktMail Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.8",
+        "ext-imap": "*",
+        "ext-openssl": "*",
+        "ext-pdo": "*",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "AktMail\\": "includes/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
