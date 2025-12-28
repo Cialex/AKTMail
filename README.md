@@ -21,7 +21,6 @@
 - [Yapılandırma](#-yapılandırma)
 - [Proje Yapısı](#-proje-yapısı)
 - [Desteklenen E-posta Sağlayıcıları](#-desteklenen-e-posta-sağlayıcıları)
-- [Ekran Görüntüleri](#-ekran-görüntüleri)
 - [API Referansı](#-api-referansı)
 - [Güvenlik](#-güvenlik)
 - [Lisans](#-lisans)
